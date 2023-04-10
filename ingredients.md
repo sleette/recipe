@@ -6,3 +6,5 @@ Ingredients:
 - 1 tablespoon grated onion
 - ½ teaspoon salt, or more to taste
 - ¼ cup peanut oil for frying, or as needed
+
+For recipe steps, see the instructions.txt file.
