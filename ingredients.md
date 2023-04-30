@@ -1,3 +1,5 @@
+Let's begin!
+
 Ingredients:
 
 - 3 medium russet potatoes, peeled
@@ -8,3 +10,5 @@ Ingredients:
 - ¼ cup peanut oil for frying, or as needed
 
 For recipe steps, see the instructions.txt file.
+
+Enjoy my recipe!
