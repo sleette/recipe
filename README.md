@@ -5,4 +5,4 @@ A latke is a type of potato pancake or fritter found in Ashkenazi Jewish cuisine
 
 *source: https://www.allrecipes.com/recipe/16073/potato-latkes-i/*
 last line changed locally
-### This is a LOCAL change :)
+### This is a REMOTE change :O
