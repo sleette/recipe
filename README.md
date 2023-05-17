@@ -19,3 +19,5 @@ Or we can:
 2. nicely ordered
 3. lists 
 4. if we prefer
+
+It's often important to be able to **emphasize** certain text. *Note: using italics is another way to emphasize text* Even better, you can use ***both at the same time***.
