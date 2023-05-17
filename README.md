@@ -21,3 +21,7 @@ Or we can:
 4. if we prefer
 
 It's often important to be able to **emphasize** certain text. *Note: using italics is another way to emphasize text* Even better, you can use ***both at the same time***.
+
+When working with Markdown, you can easily include links to external content, like pictures, just like in HTML:
+
+![recipe.jpg](recipe.jpg)
