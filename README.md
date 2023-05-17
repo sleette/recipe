@@ -10,3 +10,12 @@ last line changed locally
 # Assignment 5 Changes
 
 ### From question 1
+- this is
+- an unordered
+- list
+
+Or we can:
+1. create
+2. nicely ordered
+3. lists 
+4. if we prefer
